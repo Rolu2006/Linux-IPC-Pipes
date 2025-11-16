@@ -23,8 +23,8 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 
-# DEVELOPED BY: V.SHRIYHA
-# REG.NO: 212224230267
+# DEVELOPED BY: Somalaraju Rohini
+# REG.NO: 212224240156
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 
